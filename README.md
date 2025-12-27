@@ -100,4 +100,4 @@ Overall happiness with work-life balance is moderate, while salary satisfaction 
 8. Conclusion
 
 The Power BI dashboard effectively visualizes critical aspects of the data professional landscape. It highlights strong demand for analytical roles, the dominance of Python as a core skill, and important concerns around salary satisfaction and gender inequality. These insights can be valuable for aspiring data professionals, employers, and policymakers to better understand workforce trends and areas requiring improvement.
-Demo of the project dashboard : 
+Demo of the project dashboard : https://github.com/Neyoh96/Report-Survey-of-Data-Professional-Breakdown/blob/main/project%20of%20data%20professional.png
